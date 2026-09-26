@@ -20,8 +20,8 @@
 4. Построение регрессионной модели прогнозирования рейтинга (XGBoost)
 5. Анализ когнитивного разрыва: сила, направление, ключевые факторы
 
-[![Презентация](https://img.shields.io/badge/📊_Презентация-PPTX-ff69b4?style=for-the-badge)](./cognitive-gap-reviews.pptx?raw=true)
-[![Отчёт](https://img.shields.io/badge/📄_Отчёт-DOCX-blue?style=for-the-badge)](./cognitive-gap-reviews-otchet.docx?raw=true)
+[![Презентация](https://img.shields.io/badge/📊_Презентация-PPTX-ff69b4?style=for-the-badge)](./cognitive-gap-reviews-pdf.pdf?)
+[![Отчёт](https://img.shields.io/badge/📄_Отчёт-DOCX-blue?style=for-the-badge)](./cognitive-gap-reviews-otchet.docx?)
 [![Код](https://img.shields.io/badge/💻_Код-Jupyter-orange?style=for-the-badge)](./cognitive-gap-review-code.ipynb)  
 ---
 
