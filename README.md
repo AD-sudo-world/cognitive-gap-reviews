@@ -1,6 +1,10 @@
 
 <img src="/preview.png"/>
 
+[![Презентация](https://img.shields.io/badge/📊_Презентация-PPTX-ff69b4?style=for-the-badge)](./cognitive-gap-reviews.pptx)
+[![Отчёт](https://img.shields.io/badge/📄_Отчёт-DOCX-blue?style=for-the-badge)](./cognitive-gap-reviews-otchet.docx)
+[![Код](https://img.shields.io/badge/💻_Код-Jupyter-orange?style=for-the-badge)](./cognitive-gap-review-code.ipynb)  
+
 
 ### 📌 О проекте
 
@@ -35,10 +39,5 @@
 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-boosting-red?style=for-the-badge)](https://xgboost.readthedocs.io)
 [![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-embeddings-green?style=for-the-badge)](https://sbert.net)
-
-[![Презентация](https://img.shields.io/badge/📊_Презентация-PPTX-ff69b4?style=for-the-badge)](./cognitive-gap-reviews.pptx)
-[![Отчёт](https://img.shields.io/badge/📄_Отчёт-DOCX-blue?style=for-the-badge)](./cognitive-gap-reviews-otchet.docx)
-[![Код](https://img.shields.io/badge/💻_Код-Jupyter-orange?style=for-the-badge)](./cognitive-gap-review-code.ipynb)
